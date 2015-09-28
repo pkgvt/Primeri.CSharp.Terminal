@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{C507CB47-ED58-44C2-8C20-90619DD461C6}</ProjectGuid>
+    <ProjectGuid>{74A724D7-BE10-4463-B718-FF522F63B666}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Modul03</RootNamespace>
     <AssemblyName>Modul03</AssemblyName>

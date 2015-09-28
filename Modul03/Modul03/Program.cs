@@ -25,9 +25,6 @@ namespace Modul03
 			//закръгляване
 			c = Math.Round ( a/b);
 			Console.WriteLine ("\n\n> (a / b) =" +  c.ToString("#0.00"));
-
-
-
 		}
 	}
 }
