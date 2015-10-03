@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="ListExplore\ListExplore.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Modul04\Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListExplore\Program.cs">
     <Files>
-      <File FileName="Modul04\Program.cs" Line="58" Column="6" />
+      <File FileName="ListExplore\Program.cs" Line="24" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
