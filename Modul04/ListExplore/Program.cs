@@ -65,7 +65,7 @@ namespace ListExplore
 			} while ( _userinput != "exit"); 	
 		}
 
-					}
+		}
 
 	}
 

@@ -1,0 +1,4 @@
+D:\aula\primeri.csharp.terminal\Modulk05\Modulk05\bin\Release\Modulk05.exe
+D:\aula\primeri.csharp.terminal\Modulk05\Modulk05\bin\Release\Modulk05.pdb
+D:\aula\primeri.csharp.terminal\Modulk05\Modulk05\obj\x86\Release\Modulk05.exe
+D:\aula\primeri.csharp.terminal\Modulk05\Modulk05\obj\x86\Release\Modulk05.pdb
