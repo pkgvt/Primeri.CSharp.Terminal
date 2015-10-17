@@ -41,6 +41,12 @@ namespace Modulk05
 					Console.WriteLine( 0 );	
 			}
 				}
+				if (usercommand.Contains ("cmd05"))
+				{
+
+					Console.WriteLine ("Брои четни числа:" + cmd05  ( usercommand).Length.ToString());
+				}
+
 
 		} while (usercommand != "exit");
 
@@ -101,9 +107,41 @@ namespace Modulk05
 	   _i = _i *_i;
 		return (_temp > 0);
 		}
-		}
-}
+
+					
+						public static string[] cmd05 ( string _input )
+		{
+			try {
+				int _border = 0;
+				string _temp = "";
+
+				if (int.TryParse (_input.Split (' ') [1], out _border)) {
+				
+					for (int i = 0; i < _border; i++) {
+
+						if (i % 2 == 0)
+							_temp += i.ToString ();
+			
+						if (i != _border - 1 && i % 2 == 0)
+							_temp += ",";
+					}
+
+					Console.WriteLine (_temp);  // Само за проверка
+
+					return _temp.Split (',');
+				}
+
 		
+			} catch {
+
+			}
+		
+			return new string[1] { "0" };
+
+		}	
 	
+	}
+}
+
 
 	
